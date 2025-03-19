@@ -1,6 +1,3 @@
-Here’s a simplified version without extra styling:  
-
----
 
 ### Steps to Use ECS as a GitHub Actions Runner  
 
